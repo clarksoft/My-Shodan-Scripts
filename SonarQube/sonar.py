@@ -15,6 +15,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # Configuration
 API_KEY = "YOUR API KEY"
+PASSWORD = "XERSTEC##%$TEST"
 SEARCH_FOR = 'http.favicon.hash:1485257654'
 FILE = "/api/components/search_projects?ps=1"
 session = requests.Session()
